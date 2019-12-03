@@ -8,7 +8,7 @@ const Gryffindor = () => {
             <div>
                 <h1>Gryffindor</h1>
                 <h2>Founder: Godric Gryffindor</h2>
-                <h2>Emblamatic animal: Lion</h2>
+                <h2>Emblematic animal: Lion</h2>
                 <h2>Element: Fire</h2>
                 <h2>Colors: Scarlet, Gold</h2>
                 <h2>Head: Minerva McGonagall</h2>

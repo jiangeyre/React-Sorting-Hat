@@ -9,7 +9,7 @@ const Hufflepuff = () => {
       <div>
         <h1>Hufflepuff</h1>
         <h2>Founder: Helga Hufflepuff</h2>
-        <h2>Emblamatic animal: Badger</h2>
+        <h2>Emblematic animal: Badger</h2>
         <h2>Element: Earth</h2>
         <h2>Colors: Yellow, Black</h2>
         <h2>Head: Pomona Sprout</h2>
